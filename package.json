@@ -1,0 +1,16 @@
+{
+  "name": "server-login",
+  "version": "1.0.0",
+  "description": "for nodemcu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anintellecualbeing",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
